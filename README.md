@@ -90,7 +90,7 @@
 - **Manual logging:** Rarely utilized feature
 - **Peak days:** Isolated, not sustained patterns
 
-## 🏢 Business Recommendations
+##  Business Recommendations
 
 ### 1. Personalized Goal Setting
 - Implement adaptive step/distance targets based on individual history
